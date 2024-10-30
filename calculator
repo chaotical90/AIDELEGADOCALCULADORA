@@ -1,3 +1,10 @@
+# Função para soma
+def soma(x, y):
+    return x + y
+
+
+
+
 # Função principal
 def calculadora():
     lista_historico = []
