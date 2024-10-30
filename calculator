@@ -1,3 +1,7 @@
+# Função para subtração
+def subtracao(x, y):
+    return x - y
+
 # Função principal
 def calculadora():
     lista_historico = []
